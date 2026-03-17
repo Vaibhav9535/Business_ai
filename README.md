@@ -1,4 +1,4 @@
-# 📊 InsightAI — Visual Business Intelligence
+# Visual Business Intelligence
 
 A conversational business intelligence app powered by **Google Gemini** and **Streamlit**. Upload a CSV dataset, ask questions in plain English, and get AI-generated charts and data summaries instantly.
 
@@ -35,8 +35,8 @@ A conversational business intelligence app powered by **Google Gemini** and **St
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Vaibhav9535/Business_ai
+cd https://github.com/Vaibhav9535/Business_ai
 ```
 
 ### 2. Create and activate a virtual environment
